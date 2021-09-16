@@ -27,3 +27,4 @@ resource "aws_subnet" "myapp-pub-subnet" {
     }
 
 }
+#sample comment
