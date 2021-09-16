@@ -1,0 +1,6 @@
+# ignore terraform state file
+*.tfstate
+*.tfstate.backup*
+
+#ignore .terraform directory which contains imported provider code 
+.terraform/*
